@@ -9,5 +9,5 @@ describe "./variable.rb" do
 end
 
 $ variable.rb
-greeting="Hello World"
+greeting ="Hello World"
 
