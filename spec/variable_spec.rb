@@ -10,4 +10,5 @@ end
 
 $ variable.rb
 greeting ="Hello World"
+puts greeting
 
